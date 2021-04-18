@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-04-18T11:51:47.4607092Z;True|2021-04-18T14:46:10.4642725+03:00;True|2021-04-17T23:38:19.2441024+03:00;True|2021-04-17T23:35:48.3328134+03:00;True|2021-04-17T23:31:10.9491573+03:00;True|2021-04-17T23:20:17.0984497+03:00;</History>
+  </PropertyGroup>
+</Project>

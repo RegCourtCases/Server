@@ -1,0 +1,49 @@
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\appsettings.Development.json
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\appsettings.json
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\CW Backend.exe
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\CW Backend.deps.json
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\CW Backend.runtimeconfig.json
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\CW Backend.runtimeconfig.dev.json
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\CW Backend.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\ref\CW Backend.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\CW Backend.pdb
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\BouncyCastle.Crypto.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\Google.Protobuf.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\K4os.Compression.LZ4.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\K4os.Hash.xxHash.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\MySql.Data.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\Ubiety.Dns.Core.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\Zstandard.Net.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\ServiceStack.Common.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\ServiceStack.Interfaces.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\ServiceStack.OrmLite.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\ServiceStack.OrmLite.MySql.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\ServiceStack.Text.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\Renci.SshNet.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\CW Backend.csprojAssemblyReference.cache
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\CW Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\CW Backend.AssemblyInfoInputs.cache
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\CW Backend.AssemblyInfo.cs
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\CW Backend.csproj.CoreCompileInputs.cache
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\CW Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\CW Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\staticwebassets\CW Backend.StaticWebAssets.Manifest.cache
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\staticwebassets\CW Backend.StaticWebAssets.xml
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\scopedcss\bundle\CW Backend.styles.css
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\CW Backend.RazorTargetAssemblyInfo.cache
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\CW Backend.csproj.CopyComplete
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\CW Backend.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\ref\CW Backend.dll
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\CW Backend.pdb
+C:\Users\theCPU\Projects\CW Backend\CW Backend\obj\Release\net5.0\CW Backend.genruntimeconfig.cache
